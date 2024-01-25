@@ -5,6 +5,6 @@
 var codeExample = "jdsadsa";
 ```
 ## list examples
-- [] item 1
+- [ ] item 1
 - [x] item 2
 - [ ] item 3 
